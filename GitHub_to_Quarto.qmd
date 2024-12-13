@@ -1,0 +1,37 @@
+---
+title: "GitHub_to_Quarto"
+format: html
+editor: visual
+---
+
+## GitHub_to_Quarto
+
+1.  First, 'GitHub_to_Quarto' respiratory was created on GitHub.
+
+2.  Then, from Code, Clone, Copy URL to clipart (this the url:<https://github.com/RihabDahab/GitHub_to_Quarto.git>).
+
+3.  Go to RStudio on local environment.
+
+-   Click `File`, `New Project`, `Version Control`, `Git`.
+
+-   Paste the repository URL above and move to the next Tab: `Project directory name`field`(name it`'GitHub_to_Quarto'`)`.
+
+-   Click `Create Project`.
+
+4.  Commit and push the changes to GitHub: after you have created the Quarto document and finished making changes, commit and push the changes to GitHub as follows:
+
+-   In RStudio click the `Git` tab in the upper right pane.
+
+-   Click `Commit`.
+
+-   In the `Review changes` view, check the staged box for all files.
+
+-   Add a commit message, for example `Add initial speed and distance report`.
+
+-   Click `Commit`.
+
+-   Click the `Pull` button to fetch any remote changes.
+
+-   Click the `Push` button to push your changes to the remote repository.
+
+-   On GitHub, navigate to the Code tab of the repository to see the changes.
