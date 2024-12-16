@@ -26,7 +26,7 @@ editor: visual
 
 -   In the `Review changes` view, check the staged box for all files.
 
--   Add a commit message, for example `Add initial speed and distance report`.
+-   Add a commit message, for example `this document is created on GitHub to Qarto`.
 
 -   Click `Commit`.
 
