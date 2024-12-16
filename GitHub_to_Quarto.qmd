@@ -35,3 +35,5 @@ editor: visual
 -   Click the `Push` button to push your changes to the remote repository.
 
 -   On GitHub, navigate to the Code tab of the repository to see the changes.
+
+-   This was an introduction to using RStudio for cloning
